@@ -46,7 +46,7 @@ main{
 .desc-tenis{
    
     text-align: justify;
-    margin-left: 50px;
+    margin-left: -90px;
     height: 130px;
     width: 300px;
     font-size: 30px;
@@ -55,16 +55,16 @@ main{
     
 }
 .travessao{
- margin-top: 200px;
+ margin-top: 120px;
  margin-left: 200px;
- width: 200px;
+ width: 300px;
  height: 3px;
 
  }
  .out-main{
      height: 100px;
      display: flex;
-     margin-top: 150px;
+     margin-top: 70px;
      font-size: 61px;
      font-weight: 900;
      text-align: end;
@@ -74,8 +74,8 @@ main{
  .texto-main{
      height: 100px;
      width: 800px;
-     margin-top: 250px;
-     margin-left: -300px;
+     margin-top: 150px;
+     margin-left: -400px;
      font-size: 61px;
      font-weight: 900;
 
@@ -90,13 +90,14 @@ main{
      font-family: 'Oswald', sans-serif;
  }
  .tenis{
-     width: 1200px;
+    width: 1000px;
     margin-top: -200px;
-    margin-left: -700px;
+    margin-left: -350px;
 
  }
  .copyrigth{
-     margin-top: 100px;
+     margin-top: 190px;
+     margin-left: 100px;
      font-family: 'Oswald', sans-serif;
      font-weight: 800;
      font-size: 30px;
