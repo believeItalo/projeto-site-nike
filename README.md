@@ -1,7 +1,7 @@
 # Site Nike Air Zoom
 
 
-![](css/img/DESKTOP.png)
+![](./Lima-Atividade-nike.png)
 ---
 ## Sobre
 Site do tipo landing page para divulgar o tênis Nike Air Zoom.
