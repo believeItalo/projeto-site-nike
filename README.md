@@ -16,4 +16,4 @@ O objetivo deste projeto é colocar em prática os conhecimentos adquiridos no c
 Ítalo Silva:
 ---
 [Linkedin](https://www.linkedin.com/in/%C3%ADtalo-reis-078526239/) 
----# LandingPage-HeadPhone-Razer
+
