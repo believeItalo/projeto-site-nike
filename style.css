@@ -3,6 +3,15 @@
     margin: 0px;
 
 }
+
+body{
+  background-image: url(./Rectangle\ 1.png);
+  background-size: 400px;
+  background-repeat: repeat-y;
+  background-position-x: right;
+}
+
+
 header{
     display: flex;
     height: 140px;
@@ -15,6 +24,24 @@ height: 42px;
 margin-top: 57px;
 margin-left: 59px;
 }
+.setas{
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-left: 1100px;
+    margin-top: -65px;
+}
+.number-setas{
+    margin-left: 1000px;
+    margin-top: -70px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
 
 .menu{
     display: flex;
@@ -23,6 +50,7 @@ margin-left: 59px;
     height: 50px;
     margin-left: 1650px;
     margin-top: 70px;
+    z-index: 1;
 
 }
 
@@ -47,6 +75,7 @@ main{
    
     text-align: justify;
     margin-left: -90px;
+    margin-top: 100px;
     height: 130px;
     width: 300px;
     font-size: 30px;
@@ -90,20 +119,25 @@ main{
      font-family: 'Oswald', sans-serif;
  }
  .tenis{
-    width: 1000px;
-    margin-top: -200px;
-    margin-left: -350px;
+    width: 983px;
+    margin-top: -100px;
+    margin-left: -360px;
+   
 
  }
  .copyrigth{
-     margin-top: 190px;
+     margin-top:230px;
      margin-left: 100px;
      font-family: 'Oswald', sans-serif;
      font-weight: 800;
      font-size: 30px;
  }
  
-
+    
+.retangulo-verde{
+    transform: translateX(-50%);
+    z-index: 1;
+}
 
 
 
